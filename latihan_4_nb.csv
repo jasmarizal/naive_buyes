@@ -1,0 +1,15 @@
+ID,OUTLOOK,TEMPERATUR,HUMIDITY,WINDY,PLAY
+1,Sunny,Hot,High,FALSE,0
+2,Sunny,Hot,High,TRUE,0
+3,Cluody,Hot,High,FALSE,1
+4,Rainy,Mild,High,FALSE,1
+5,Rainy,Cool,Normal,FALSE,1
+6,Rainy,Cool,Normal,TRUE,1
+7,Cloudy,Cool,Normal,TRUE,1
+8,Sunny,Mild,High,FALSE,0
+9,Sunny,Cool,Normal,FALSE,1
+10,Rainy,Mild,Normal,FALSE,1
+11,Cloudy,Mild,Normal,TRUE,1
+12,Cloudy,Mild,High,TRUE,1
+13,Rainy,Hot,Normal,FALSE,1
+14,Rainy,Mild,High,TRUE,0
